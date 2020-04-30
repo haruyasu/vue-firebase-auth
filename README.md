@@ -1,1 +1,1 @@
-# vue-firebase-auth
+# Vue Firebase Auth
