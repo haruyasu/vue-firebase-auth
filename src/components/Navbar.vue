@@ -12,7 +12,7 @@
         ログイン
       </v-btn>
       <v-btn text v-if="user">
-        {{ user.name }}
+        {{ user.email }}
       </v-btn>
       <v-btn text v-if="user" @click="logout">
         ログアウト
